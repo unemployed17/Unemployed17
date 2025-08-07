@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey, i’m Better Call Jay 👾
+   Better Call Jay 👾
 </h1>
 
 <p align="center">
